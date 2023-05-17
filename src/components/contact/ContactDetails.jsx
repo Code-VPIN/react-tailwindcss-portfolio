@@ -3,7 +3,7 @@ import { FiPhone, FiMapPin, FiMail } from 'react-icons/fi';
 const contacts = [
 	{
 		id: 1,
-		name: 'Jaikaranpur,Bahrauli, Barabanki,, UP, India',
+		name: 'Jaikaranpur, Barabanki, UP, India, 225302',
 		icon: <FiMapPin />,
 	},
 	{
@@ -18,7 +18,7 @@ const contacts = [
 	},
 	{
 		id: 3,
-		name: '99191 55639',
+		name: '88810 46212',
 		icon: <FiPhone />,
 	},
 ];
